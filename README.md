@@ -3,6 +3,11 @@
 - 🌱 I’m currently learning ... JavaScript, Python
 - My future development goals: using the .NET Framework
 
+- I'm available on:
+- CodeChef: codechef.com/users/sanu_sona
+- AtCoder: atcoder.jp/users/sanu_sona
+- HackerRank: hackerrank.com/dipsha_sanu?hr_r=1
+
 - My fave topics in CS are Arrays, Events and Time Complexity
 - https://editor.p5js.org/dipsha.sanu/sketches
 <!---
