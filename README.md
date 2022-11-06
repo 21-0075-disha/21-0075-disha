@@ -1,11 +1,12 @@
 👋 Hi, I’m @21-0075-disha, a BTech undergrad at NIT Durgapur
 - 👀 I’m interested in ... Creative Coding, Computational Physics, Mathematical Models and Simulations
 - 🌱 I’m currently learning ... JavaScript, Python, C#
+- Also take a look at my form designing skills too! [that's why and how I have learnt to code!]
 
 Reach me at:
-- CodeChef: codechef.com/users/sanu_sona
-- AtCoder: atcoder.jp/users/sanu_sona
-- HackerRank: hackerrank.com/dipsha_sanu?hr_r=1
+- CodeChef: https://www.codechef.com/users/sanu_sona
+- AtCoder: https://atcoder.jp/users/sanu_sona
+- HackerRank: https://www.hackerrank.com/dipsha_sanu
 
 - Link to my p5.js sketches: https://editor.p5js.org/dipsha.sanu/sketches
 <!---
