@@ -1,5 +1,6 @@
 👋 Hi, I’m **@21-0075-disha**, a BTech undergrad at NIT Durgapur
 - 👀 I’m interested in ... Creative Coding, Computational Physics, Mathematical Models and Simulations
+- I've learned ... C, C++, Java, Python
 - 🌱 I’m currently learning ... C#, JavaScript
 
 **Currently I'm on...**
