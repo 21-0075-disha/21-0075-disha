@@ -1,9 +1,15 @@
-👋 Hi, I’m **@21-0075-disha**, a BTech undergrad at NIT Durgapur
-- 👀 I’m interested in ... Creative Coding, Computational Physics, Mathematical Models and Simulations
-- I've learned ... C, C++, Java, Python
-- 🌱 I’m currently learning ... C#, JavaScript
+## README.md
+Hi, I’m **@21-0075-disha**, a BTech ECE undergrad at NIT Durgapur (2021-2025)
 
-**Currently I'm on...**
+**Currently an AI/ML R&D Intern @ Spillmate ✨ Summer 2024**
+
+```
+Working towards the goal of providing quality mental health support using advanced AI technology
+with a smart conversational chatbot as CBT therapist
+(app currently in beta testing for Android, proudly made in India)
+```
+
+**Competitive Prograaming Platforms I am on:**
 - CodeChef: https://www.codechef.com/users/sanu_sona
 - AtCoder: https://atcoder.jp/users/sanu_sona
 - HackerRank: https://www.hackerrank.com/dipsha_sanu
