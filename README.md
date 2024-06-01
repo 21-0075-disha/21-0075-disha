@@ -1,7 +1,7 @@
 ## README.md
 Hi, I’m **@21-0075-disha**, a BTech ECE undergrad at NIT Durgapur (2021-2025)
 
-**Currently an AI/ML R&D Intern @ Spillmate ✨ Summer 2024**
+**Currently an AI/ML R&D Intern @ Spillmate ✨ Summer 2024** 🌱🌱🌱 
 
 ```
 Working towards the goal of providing quality mental health support using advanced AI technology
@@ -9,7 +9,7 @@ with a smart conversational chatbot as CBT therapist
 (app currently in beta testing for Android, proudly made in India)
 ```
 
-**Competitive Prograaming Platforms I am on:**
+**Competitive Prograaming Platforms I am on:** 🌱🌱🌱
 - CodeChef: https://www.codechef.com/users/sanu_sona
 - AtCoder: https://atcoder.jp/users/sanu_sona
 - HackerRank: https://www.hackerrank.com/dipsha_sanu
