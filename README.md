@@ -9,7 +9,7 @@ with a smart conversational chatbot as CBT therapist
 (app currently in beta testing for Android, proudly made in India)
 ```
 
-**Competitive Prograaming Platforms I am on:** 🌱🌱🌱
+**Competitive Programming Platforms I am on:** 🌱🌱🌱
 - CodeChef: https://www.codechef.com/users/sanu_sona
 - AtCoder: https://atcoder.jp/users/sanu_sona
 - HackerRank: https://www.hackerrank.com/dipsha_sanu
