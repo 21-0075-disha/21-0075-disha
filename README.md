@@ -1,6 +1,12 @@
 ## README.md
 ```
-After fifteen days this account will be no more.
+It takes:
+D -> Discipline
+R -> Routine
+E -> Education
+A -> Action
+M -> Mentality
+To turn dreams into reality.
 ```
 
 <!---
