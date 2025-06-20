@@ -1,12 +1,25 @@
 ## README.md
 ```
-It takes:
-D -> Discipline
-R -> Routine
-E -> Education
-A -> Action
-M -> Mentality
-To turn dreams into reality.
+         'c:.                               
+        lkkkx, ..       ..   ,cc,           
+        okkkk:ckkx'  .lxkkx.okkkkd          
+        .:llcokkx'  :kkkxkko:xkkd,          
+      .xkkkkdood:  ;kx,  .lkxlll;           
+       xkkx.       xk'     xkkkkk:          
+       'xkx.       xd      .....,.          
+      .. :xkl'     :c      ..''..           
+    .dkx'  .:ldl:'. '  ':lollldkkxo;        Keep Blooming
+  .''lkkko'                     ckkkx.      
+'xkkkd:kkd.       ..  ;'        :kkxo.      
+,xkkkd;kk'      ,d;    ld.   ':dkd::cc,     
+ .,,.;xkko'.';lxo.      dx,  :kkk'xkkkkc    
+     'dkkkkkxo:.        ;kx  .kkk:;xkkd.
+       .....   .;dk:.   lkk.  :;,
+             :kkkkkkkdoxkkx
+              ,c,,;;;:xkkd.
+                ;kkkkl...
+                ;kkkkl
+                 ,od;
 ```
 
 <!---
